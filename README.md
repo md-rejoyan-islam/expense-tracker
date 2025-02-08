@@ -25,9 +25,9 @@ Contributions are welcome! Feel free to submit issues and pull requests.
 ## Links
 
 <a href="https://expense-income-app-tracker.netlify.app"> Live Preview </a> </br>
-<a href="">GitHub Repository</a>
+<a href="https://github.com/md-rejoyan-islam/expense-tracker">GitHub Repository</a>
 
-### CONTACT
+## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
