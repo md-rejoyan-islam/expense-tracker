@@ -1,0 +1,29 @@
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+import Main from "./components/main/Main";
+import Header from "./components/shared/Header";
+
+function App() {
+  return (
+    <>
+      <Header />
+      <Main />
+
+      {/* toast container  */}
+      <ToastContainer
+        position="top-right"
+        autoClose={5000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="light"
+      />
+    </>
+  );
+}
+
+export default App;
